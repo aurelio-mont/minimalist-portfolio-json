@@ -1,8 +1,8 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
+    "name": "Aurelio Montalvo Echeverría",
     "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
-    "image": "/me.webp",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjK3Nw8fjRU9l20owR7SCKr_sHsLMOJYh-HfESKvLsTQ&s",
     "email": "miduga@gmail.com",
     "phone": "+34 688888888",
     "url": "https://midu.dev",
@@ -17,8 +17,8 @@
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
+        "username": "aurelio-mont",
+        "url": "https://www.linkedin.com/in/aurelio-mont/"
       },
       {
         "network": "X",
@@ -27,8 +27,8 @@
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "aurelio-mont",
+        "url": "https://github.com/aurelio-mont"
       }
     ]
   },
@@ -78,7 +78,7 @@
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
+    "institution": "Universidad de Guadalajara",
     "url": "https://www.uoc.edu/portal/es/index.html",
     "area": "Ingeniero de Software",
     "studyType": "Bachelor",
