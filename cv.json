@@ -3,27 +3,22 @@
     "name": "Aurelio Montalvo Echeverría",
     "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjK3Nw8fjRU9l20owR7SCKr_sHsLMOJYh-HfESKvLsTQ&s",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
+    "email": "montexpress.ame@gmail.com",
+    "phone": "+52 3931010898",
     "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en BarcJaliscoelona, México. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "postalCode": "47910",
+      "city": "Guadalajara",
+      "countryCode": "MX",
+      "region": "México"
     },
     "profiles": [
       {
         "network": "LinkedIn",
         "username": "aurelio-mont",
         "url": "https://www.linkedin.com/in/aurelio-mont/"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
       },
       {
         "network": "GitHub",
